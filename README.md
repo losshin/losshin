@@ -1,6 +1,6 @@
 ### Hi there 👋
 My Name 'losshin', it is not a real name.
-I have Experience in Technical Network. Previously, I worked at an ISP (Internet Service Provider) and handled more than 20 clients
+I have Experience in Technical Network. Previously, I worked at an ISP (Internet Service Provider) and handled more than 20 clients.
 
 <!--
 **losshin/losshin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
