@@ -1,6 +1,6 @@
 ### Hi there 👋
-My Name 'losshin', it is not a real name.
-I have Experience in Technical Network. Previously, I worked at an ISP (Internet Service Provider) and handled more than 20 clients.
+My Name Riski Agung Romadhon.
+I have Experience in Network Technician. Previously, I worked at an ISP (Internet Service Provider) and handled more than 20 clients.
 
 <!--
 **losshin/losshin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Kotlin, Flutter, Processing, and Game Logic.
 - 👯 I’m looking to collaborate on Android Development, iOS Development, Game Development, and Multi-Platform App Development.
-- 💬 Ask me about Java, Kotlin, Processing Language, Blender.
+- 💬 Ask me about Java fundamental, and Blender 3D.
