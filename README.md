@@ -18,5 +18,4 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently learning Kotlin, Flutter, Processing, and Game Logic.
-- 👯 I’m looking to collaborate on Android Development, Game Development, and Multi-Platform App Development.
-- 💬 Ask me about Java fundamental, and Blender 3D.
+- 👯 I’m looking to collaborate on Android Development,and Game Development.
