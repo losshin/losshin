@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently learning Kotlin, Flutter, Processing, and Game Logic.
-- 👯 I’m looking to collaborate on Android Development,and Game Development.
+- 👯 I’m looking to collaborate on Android Development, and Game Development.
