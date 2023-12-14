@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning Kotlin, Flutter, Processing, and Game Logic.
+- 🌱 I’m currently learning Kotlin, and Flutter.
 - 👯 I’m looking to collaborate on Android Development, and Game Development.
