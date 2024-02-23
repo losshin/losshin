@@ -18,4 +18,12 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently learning Kotlin, and Flutter.
-- 👯 I’m looking to collaborate on Android Development, and Game Development.
+- 👯 I’m looking to collaborate on Android Development, and Game Development.<br>  
+
+### Github Static
+<p align="left">
+<a href="https://github.com/losshin">
+   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=losshin&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=losshin&layout=compact&theme=algolia"/>
+</a>
+</p>
