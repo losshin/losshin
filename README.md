@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently learning Kotlin, and Flutter.
-- 👯 I’m looking to collaborate on Android Development, and Game Development.<br>  
+- 👯 I’m looking to collaborate on Android Development, and Web Development.<br>  
 
 ### Github Static
 <p align="left">
